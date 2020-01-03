@@ -1,0 +1,25 @@
+# Cara membuat Repository (Project Git)
+
+- dengan git init 
+	* jika project aplikasi / apapun sudah dibuat :
+	1. Masuk ke folder 
+	2. Buka termina git
+	3. ketikkan perintah (git init .)
+	* Project aplikasi belum dibuat :
+	1. Buka git bash
+	2. ketikkan perintah init namaProject yang ingin dibuat
+
+
+
+# GIT STATUS
+Unntracked -> Belum didaftarkan
+modified -> sudah didaftarkan 
+deleted -> file ysudah di hapus
+
+=untuk mengubah status diatas menjadi stagged yaitu dengan perintah : git add namaFilenya
+
+stagged -> menandai file yang yang berubah untuk dicatat
+
+=untuk merubah status stagged menjadi commited menggunakan perintah : git commit -m "Isi pesan"; -m adalah perintah untuk memasukkan mesage
+
+commited -> file yang sudah dicatat
