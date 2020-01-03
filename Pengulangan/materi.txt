@@ -1,0 +1,14 @@
+Looping (Pengulangan);
+
+-> Untuk mengulang suatu baris program
+
+Ada : 
+For, For Each | while,  do - while
+______________|________________________________________
+    counted   | uncounted
+______________|________________________________________
+looping yang  | looping yang
+bisa          | tidak dapat ditentukan nilai akhirnya
+ditentukan    |
+jumlah        |
+pengulangannya|
