@@ -1,3 +1,5 @@
+package oop.polymorphism;
+
 // polimorphism berarti banyak bentuk. banyak bentuk dari method !atribut
 // polymorphism ada 2 bentuk. overriding dan overloading
 
