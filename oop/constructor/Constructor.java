@@ -1,3 +1,5 @@
+package oop.constructor;
+
 public class Constructor {
     // Contstructor adalah sebuah method. yang secara otomatis dibuat ketika kita
     // instansiasi sebuah object.
