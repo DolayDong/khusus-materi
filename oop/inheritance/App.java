@@ -1,3 +1,5 @@
+package oop.inheritance;
+
 class person {
     // atribute
     String jeneng;
