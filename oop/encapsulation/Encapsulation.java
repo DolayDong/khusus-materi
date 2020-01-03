@@ -1,3 +1,5 @@
+package oop.encapsulation;
+
 public class Encapsulation {
     // encapsulation adalah konsep pembungkusan suatu method dan atribut. dikenal
     // dengan istilah acces modifier. ada 3 yaitu:
@@ -43,7 +45,7 @@ class Musisi {
 
 class Pianis extends Musisi {
     public void setNamaPianis(String namaPianis) {
-        this.namaMusis i = namaPianis;
+        this.namaMusisi = namaPianis;
     }
 }
 
