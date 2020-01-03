@@ -1,3 +1,4 @@
+package oop.inheritance;
 
 public class BelajarInheritance {
 
